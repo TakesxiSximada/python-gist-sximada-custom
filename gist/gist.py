@@ -9,7 +9,7 @@ import shutil
 import tarfile
 import tempfile
 
-__version__ = '0.4.1'
+__version__ = '0.4.1.sximada1'
 
 requests.packages.urllib3.disable_warnings()
 
